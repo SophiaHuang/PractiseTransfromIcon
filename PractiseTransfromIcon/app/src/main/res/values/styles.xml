@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <declare-styleable name="SVGPathView">
+        <attr name="svg_start_path" format="reference"/>
+        <attr name="svg_end_path" format="reference"/>
+        <attr name="svg_paint_width" format="integer"/>
+        <attr name="svg_view_width" format="integer"/>
+        <attr name="svg_view_height" format="integer"/>
+        <attr name="svg_color" format="color"/>
+    </declare-styleable>
+
 </resources>

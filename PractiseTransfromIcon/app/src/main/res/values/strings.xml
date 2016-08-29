@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PractiseTransfromIcon</string>
+    <string name="svg_back">M 50 14 L 90 50 M 10 50 H 90 M 50 86 L 90 50</string>
 </resources>
